@@ -41,18 +41,11 @@ A React.js Expense Tracking Application that helps users log daily expenses, cat
 
 ## ⚡ Getting Started :
 
-1️⃣ Clone the github repository
-git clone https://github.com/DineshBabu-Git/React-Smart-Expense-Tracker-App.git
-cd smart-expense-tracker
-
-2️⃣ Install dependencies
-npm install
-
-3️⃣ Start development server
-npm run dev
-
-4️⃣ Build for production
-npm run build
+1. Clone the project and open it in VS Code.
+2. Go to File → Open Folder.
+3. Select your project folder.
+4. Open terminal at the bottom of VS Code and Run below commands.
+5. Run : npm install npm run dev
 
 ----------------------------------------------------------------------------------------
 
